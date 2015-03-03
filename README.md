@@ -1,2 +1,2 @@
-# Verkefni-4
-ez pz nigguh
+# Verkefni 4
+Þetta er GitHub fyrir Aron, Edda og Óliver :)
